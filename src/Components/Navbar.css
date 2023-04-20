@@ -1,0 +1,41 @@
+.nb{
+    margin: 0;
+    padding: 10px;
+    background-color: #95BDFF;
+    
+}
+
+.ul-margin{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  
+}
+
+.float-right a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: block;
+    padding: 10px 15px;
+    letter-spacing: 2px;
+    color: gray;
+    margin-right: 10px;
+    
+}
+
+.nav-logo{
+    display: inline;
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: white;
+}
+
+.float-right a:hover{
+    border-bottom: 2px solid white;
+    color: #2B3467;
+}
+
+
+

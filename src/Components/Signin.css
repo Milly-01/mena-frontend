@@ -1,0 +1,63 @@
+.margin-row-si{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+
+.form-si{
+    text-align: center;
+}
+
+.input-labels{
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.input-si{
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 0.2px solid lightgray;
+    width: 60%;
+}
+
+
+.input-si:hover{
+    width: 70%;
+    border: 0.2px solid #95BDFF;
+}
+
+.btn-si{
+    width: 40%;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+
+.signup-link{
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 0.8rem;
+    color: gray;
+ 
+}
+
+.signup-link:hover{
+    color: blue;
+ 
+}
+
+.si-heading{
+    color: blue;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 1.6rem;
+    margin-bottom: 50px;
+}

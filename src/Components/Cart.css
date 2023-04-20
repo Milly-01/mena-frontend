@@ -1,0 +1,49 @@
+.ap-product{
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: blue;
+    display: inline;
+}
+
+.ap-price{
+    margin-left: 30px;
+    font-weight: bold;
+    color: gray;
+    letter-spacing: 2px;
+    display: inline;
+}
+
+.ap-my-food{
+    padding: 20px 50px;
+}
+
+.total-price{
+    padding-left: 50px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: green;
+    display: inline;
+}
+
+.time-to-pay{
+    display: inline;
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    float: right;
+}
+
+.not-began-shopping{
+    font-size: 1.4rem;
+    color: blue;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+}
